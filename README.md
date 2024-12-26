@@ -1,5 +1,6 @@
 ## How to reproduce
 
+1. Execute `npm i`.
 1. Open this repository in VS Code.
 1. Open `example/index.ts` in the editor.
 1. When the following prompt appears, select "Allow".
