@@ -1,0 +1,19 @@
+{
+  "name": "typescript-plugin-png",
+  "type": "module",
+  "main": "./src/index.cjs",
+  "license": "CC0-1.0",
+  "private": true,
+  "scripts": {},
+  "workspaces": [
+    "example"
+  ],
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@volar/language-core": "~2.4.10",
+    "@volar/typescript": "~2.4.10"
+  }
+}
